@@ -24,7 +24,6 @@ $(function(){
 		$("#buyTime_span").text("");
 		
 		
-		
 		var name  = $("#name").val();
 		//验证名称不能为空
 		if("" == name || null == name){
